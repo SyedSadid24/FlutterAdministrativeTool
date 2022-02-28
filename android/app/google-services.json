@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489160316294",
+    "project_id": "androrat-8e4a6",
+    "storage_bucket": "androrat-8e4a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489160316294:android:9b1d22923369aba5f60807",
+        "android_client_info": {
+          "package_name": "com.example.commands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489160316294-ajr6d567kni5pk8efceomhd2srtoarko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcbrAoQzhhfvUaiO_GkwZk5R0DTJjNa_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489160316294-ajr6d567kni5pk8efceomhd2srtoarko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
