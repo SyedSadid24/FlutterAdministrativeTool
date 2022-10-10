@@ -1,10 +1,10 @@
 # commands
 
-A new Flutter project.
+A new Flutter project built in Flutter 2.0
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter application (Malware) to collect photos, videos, sms, call logs, contacts and send them to Firebase server.
 
 A few resources to get you started if this is your first Flutter project:
 
